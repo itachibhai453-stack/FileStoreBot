@@ -1,14 +1,14 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "token": "8916557754:AAGyX4M3P2CGIdAXSzvPcktixXR-6Xz0CsQ",
+        "api_id": "15055049",
+        "api_hash": "abe3f66fcd80c91e53009ba52c7b3a83",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
+        "db_uri": "mongodb+srv://newsudo:786780@cluster0.pbiae8a.mongodb.net/?appName=Cluster0",
+        "db_name": "newsudo",
+        "fsubs": [[-1004476140863, true, 5]],
+        "db": -1004399071689,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",

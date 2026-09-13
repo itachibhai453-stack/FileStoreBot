@@ -1,14 +1,14 @@
 [
     {
         "session": "ses",
-        "token": "8916557754:AAGyX4M3P2CGIdAXSzvPcktixXR-6Xz0CsQ",
+        "token": "8727224804:AAGqc_IhAnyewvDviTwxHBdLuD28-b8c8Mk",
         "api_id": "15055049",
         "api_hash": "abe3f66fcd80c91e53009ba52c7b3a83",
         "workers": 8,
         "db_uri": "mongodb+srv://newsudo:786780@cluster0.pbiae8a.mongodb.net/?appName=Cluster0",
         "db_name": "newsudo",
-        "fsubs": [[-1004476140863, true, 5]],
-        "db": -1004399071689,
+        "fsubs": [[-1001982307384, true, 5]],
+        "db": -1004374344469,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
@@ -18,7 +18,7 @@
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [78324663, 73468932],
+        "admins": [8808274917],
         "disable_btn": true,
         "protect": false
     }
